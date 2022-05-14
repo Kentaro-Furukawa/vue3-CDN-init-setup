@@ -7,8 +7,5 @@ const app = Vue.createApp({
             myName: 'Ken'
         }
     }
-
-
 })
-
 app.mount('#app')
